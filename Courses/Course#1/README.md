@@ -1,5 +1,5 @@
 # 3DMP - Course no. 1
-
+![](https://github.com/Burdun/3DMP_private/blob/main/readme_courses_personal_projects/Headphones_Box.png)
 ### 1. Course objectives
 > - Presenting the subjects that will be covered during this semester.
 ### 2. The course motivation
