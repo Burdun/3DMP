@@ -1,5 +1,5 @@
 # 3DMP - Lab no. 1
-
+![](https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Dino_Keychain.png)
 ### 1. Introduction to Fusion 360
 > - Learn how to hover around in Fusion 360.
 ### 2. Explore Fusion 360 panels
