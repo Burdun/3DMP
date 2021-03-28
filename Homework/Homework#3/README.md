@@ -25,16 +25,14 @@
 6. The SVG is a little bit stylized. The chess pieces contain smaller parts that are not connected. For the full grade, you need to find a way to make each chess piece only one body! (Fig. 3.2)
 
 <table>
-    <thead>
-        <tr>
-            <th><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.1.png" align="center" width=150 title="Fig#3.2.1"></th>
-            <th><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.2.png" align="center" width=189.4 title="Fig#3.2.2"/></th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td rowspan><p style="text-align:center;"><i>Like this</i></p></td>
-            <td rowspan><p style="text-align:center;"><i>Not like this</i></p></td>
+            <td rowspan><p style="text-align:center;">Like this:</p></td>
+            <td rowspan><p style="text-align:center;">Not like this:</p></td>
+        </tr>
+        <tr>
+            <td><p style="text-align:center;"><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.1.png" align="center" width=150 title="Fig#3.2.1"></p></td>
+            <td><p style="text-align:center;"><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.2.png" align="center" width=189.4 title="Fig#3.2.2"/></p></td>
         </tr>
         <tr>
             <td colspan=2><p style="text-align:center;"><i>Fig. 3.2 - Each piece needs to be one single body</i></p></td>
