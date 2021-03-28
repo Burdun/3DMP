@@ -13,7 +13,7 @@
    - You need to take care when designing the knight. Only the base should be revolved. Find another solution for the horse part e.g.: extrusion, fillet etc.;
    - When designing the bishop, revolve the part that doesn’t have the slit and then add the slit.
 
-| <img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.1.png" width=150 title="Fig. 3.1 - Recap: How to revolve"> |
+| <img src="https://github.com/Burdun/3DMP_private/blob/main/readme_images/Fig%233.1.png" width=150 title="Fig. 3.1 - Recap: How to revolve"> |
 | :--------------------------------: |
 | *Fig. 3.1 - Recap: How to revolve* |
 
@@ -31,8 +31,8 @@
             <td rowspan align="center" valign="center">Not like this:</td>
         </tr>
         <tr>
-            <td align="center" valign="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.1.png" align="center" width=150 title="Fig#3.2.1"></td>
-            <td align="center" valign="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.2.png" align="center" width=189.4 title="Fig#3.2.2"/></td>
+            <td align="center" valign="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_images/Fig%233.2.1.png" align="center" width=150 title="Fig#3.2.1"></td>
+            <td align="center" valign="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_images/Fig%233.2.2.png" align="center" width=189.4 title="Fig#3.2.2"/></td>
         </tr>
         <tr>
             <td colspan=2 align="center" valign="center"><i>Fig. 3.2 - Each piece needs to be one single body</i></td>
