@@ -22,7 +22,7 @@
    - For the axis you will use a line (Fig. 3.1 the red line) that cuts the piece in half;
    - You need to add this line by yourself, editing the SVG sketch using constraints (don’t add it using a new sketch, it needs to be in the same sketch for the revolve to work).
 5. Use a circular pattern to add details on the top, neck and base of the pieces.
-6. The SVG is a little bit stylized. The chess pieces contain smaller parts that are not connected. For the full grade, you need to find a way to make each chess piece only one body! (Fig. 3.2)
+6. The SVG is a little bit stylized. The chess pieces contain smaller parts that are not connected. For the full grade, you need to find a way to make each chess piece only one body.
 
 <table>
     <tbody>
