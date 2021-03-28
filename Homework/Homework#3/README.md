@@ -16,7 +16,7 @@
 <img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.1.png" width=150 title="Fig. 3.1 - Recap: How to revolve">
 </p>
 <p align="center">
-*Fig. 3.1 - Recap: How to revolve*
+| Fig. 3.1 - Recap: How to revolve |
 </p>
 4. When using revolve, you need two things, the profile and the axis:
    - For the profile you will use half of the chess piece (Fig. 3.1 dark blue part);
@@ -27,7 +27,7 @@
 <p align="center">
 <img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.1.png" align="center" width=150 title="Like this"> <img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.2.png" align="center" width=189.4 title="Not like this"/>
 <p align="center"> 
-*Fig. 3.2 - Each piece needs to be one single body*
+| Fig. 3.2 - Each piece needs to be one single body |
 </p>
 7. Slice all the pieces in PrusaSlicer. 
 8. (BONUS) Make the board as well. Multiply the pieces and align them on the board. Add appearance (videos about appearance can be found in the [course](https://www.youtube.com/playlist?list=PLFglUCrrcNc8-yT_D4yHQ1Xn0mK7rZQo1)).
