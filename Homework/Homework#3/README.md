@@ -2,7 +2,7 @@
 
 ### Tasks:
 1. Turn on capture history.
-2. Import an SVG ([link here](https://drive.google.com/drive/folders/1hP3PDJ7wgEmkW3Iuby4fesoqEDkGd0BF)) and design a chess pieces set: 
+2. Import an SVG (link [here](https://drive.google.com/drive/folders/1hP3PDJ7wgEmkW3Iuby4fesoqEDkGd0BF)) and design a chess pieces set: 
    - 1 pawn;
    - 1 knight;
    - 1 bishop;
