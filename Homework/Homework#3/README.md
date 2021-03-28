@@ -27,15 +27,15 @@
 <table>
     <tbody>
         <tr>
-            <td rowspan><p style="text-align:center;">Like this:</p></td>
-            <td rowspan><p style="text-align:center;">Not like this:</p></td>
+            <td rowspan align="center" valign="center">Like this:</td>
+            <td rowspan align="center" valign="center">Not like this:</td>
         </tr>
         <tr>
-            <td><p style="text-align:center;"><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.1.png" align="center" width=150 title="Fig#3.2.1"></p></td>
-            <td><p style="text-align:center;"><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.2.png" align="center" width=189.4 title="Fig#3.2.2"/></p></td>
+            <td align="center" valign="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.1.png" align="center" width=150 title="Fig#3.2.1"></td>
+            <td align="center" valign="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.2.2.png" align="center" width=189.4 title="Fig#3.2.2"/></td>
         </tr>
         <tr>
-            <td colspan=2><p style="text-align:center;"><i>Fig. 3.2 - Each piece needs to be one single body</i></p></td>
+            <td colspan=2 align="center" valign="center"><i>Fig. 3.2 - Each piece needs to be one single body</i></td>
         </tr>      
     </tbody>
 </table>
