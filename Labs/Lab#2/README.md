@@ -1,5 +1,5 @@
 # 3DMP - Lab no. 2
-
+<img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Harry_Potter_Keychain.png" width=325.5><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Vodemort.png" width=301><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/iPhone.png" width=325.5>
 ### 1. Importing .STL files
 >	- Downloading our first .STL from thingiverse.com, understanding the importance of respecting the COPYRIGHT and importing the .STL into Fusion 360.
 ### 2. Editing .STL files
