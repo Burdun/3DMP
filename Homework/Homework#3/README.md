@@ -10,7 +10,7 @@
    - 1 queen;
    - 1 king.
 3. Use the SVG sketch to revolve the pieces: 
-   - You need to take care when designing the knight. Only the base should be revolved. Find another solution for the horse part e.g: extrusion, fillet, etc.;
+   - You need to take care when designing the knight. Only the base should be revolved. Find another solution for the horse part e.g: extrusion, fillet etc.;
    - When designing the bishop, revolve the part that doesn’t have the slit and then add the slit.
 
 | <img src="https://github.com/Burdun/3DMP/blob/main/readme_images/Fig%233.1.png" width=150 title="Fig. 3.1 - Recap: How to revolve"> |
