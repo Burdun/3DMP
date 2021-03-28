@@ -14,7 +14,7 @@
    - https://tinyurl.com/ydabljd6.
 4. (BONUS) Make a video rendering with the mechanism displaying the motion study. Use the result to make a video tutorial where you present how the mechanism is working.
 
-Requirements for 2 and 3:
+**Requirements for 2 and 3:**
 - Divide the mechanism into components;
 - Use Fusion Rule Number 1;
 - Design the model having in mind that it will be 3D printed (create a stand for the mechanism - like “Holder” component made in Course 5 videos - so they will not levitate);
@@ -24,4 +24,4 @@ Requirements for 2 and 3:
 - Create a motion study;
 - Render the mechanism (upload a rendering photo to GitHub as well).
 
-OBS: Turn on capture history. You need to upload the project as .f3d and a .stl for each projects’ body and component.
+**OBS:** Turn on capture history. You need to upload the project as .f3d and a .stl for each projects’ body and component.
