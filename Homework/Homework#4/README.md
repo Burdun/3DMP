@@ -25,4 +25,4 @@
 - Render the mechanism (upload a rendering photo to GitHub as well).
 
 ##### **OBS:**
-Turn on capture history. You need to upload the project as .f3d and a .stl for each projects’ body and component.
+- Turn on capture history. You need to upload the project as .f3d and a .stl for each projects’ body and component.
