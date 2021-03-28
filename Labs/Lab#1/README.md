@@ -1,4 +1,4 @@
-# 3DMP Lab no. 1
+# 3DMP - Lab no. 1
 
 ### 1. Introduction to Fusion 360
 > Learn how to hover around in Fusion 360.
