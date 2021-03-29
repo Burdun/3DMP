@@ -1,5 +1,6 @@
 # 3DMP - Lab no. 3
 <img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/A1.png" width=238><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/A4.png" width=238><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Chess_Icon.png" width=238><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Kirby.png" width=238>
+----------------------------------------------------------------------------------------------------
 ### 1. How to align sketches
 > - Learn how we can align the smaller pieces of a sketch, even if they are basic shapes, custom shapes, or custom text.
 ### 2. Creating a 3D model after a technical drawing (1)
