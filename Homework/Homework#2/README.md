@@ -1,5 +1,20 @@
 # 3DMP - Homework no. 2
 
+<table>
+    <tbody>
+        <tr>
+            <td  align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Mask_Original.png"></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Car_Mask_Case_Airflow.png"/></td>
+        </tr>
+        <tr>
+            <td rowspan align="center" valign="center">Original</td>
+            <td rowspan align="center" valign="center">Modified</td>
+        </tr>
+    </tbody>
+</table>
+
+<img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/A1.png" height=181.95><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/A2.png" height=181.95><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/A3.png" height=181.95><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/A4.png" height=181.95>
+
 ### Tasks:
 1. Download a model from [Thingiverse](https://www.thingiverse.com/) and modify it. Think of an useful improvement. If you’re happy with the new design, upload it as a remix of the original.
 2. Design models A1, A2, A3 and A4 following the [lab video tutorials](https://www.youtube.com/playlist?list=PLFglUCrrcNc8UePTEi0YEC8yV1t7EBdCW).
