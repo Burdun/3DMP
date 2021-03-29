@@ -3,8 +3,8 @@
 <table>
     <tbody>
         <tr>
-            <td  align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Mask_Original.png"></td>
-            <td align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Car_Mask_Case_Airflow.png"/></td>
+            <td  align="center"><img src="https://github.com/Burdun/3DMP/blob/main/Homework/Homework%232/Thingiverse/Original_Mask_Case/Mask_Original.png"></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/Homework/Homework%232/Thingiverse/Modified_Mask_Case/Car_Mask_Case_Airflow.png"/></td>
         </tr>
         <tr>
             <td rowspan align="center" valign="center">Original</td>
@@ -13,7 +13,7 @@
     </tbody>
 </table>
 
-<img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/A1.png" height=181.95><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/A2.png" height=181.95><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/A3.png" height=181.95><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/A4.png" height=181.95>
+<img src="https://github.com/Burdun/3DMP/blob/main/Homework/Homework%232/A1/A1.png" height=181.95><img src="https://github.com/Burdun/3DMP/blob/main/Homework/Homework%232/A2/A2.png" height=181.95><img src="https://github.com/Burdun/3DMP/blob/main/Homework/Homework%232/A3/A3.png" height=181.95><img src="https://github.com/Burdun/3DMP/blob/main/Homework/Homework%232/A4/A4.png" height=181.95>
 ---------------------------------------------------------------------------------------------------------------
 ### Tasks:
 1. Download a model from [Thingiverse](https://www.thingiverse.com/) and modify it. Think of an useful improvement. If you’re happy with the new design, upload it as a remix of the original.
@@ -22,10 +22,10 @@
 <table>
     <tbody>
         <tr>
-            <td  align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_images/Fig%232.1.png" width=199 title="Fig#2.1"></td>
-            <td align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_images/Fig%232.2.jpg" width=220 title="Fig#2.2"/></td>
-            <td align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_images/Fig%232.3.jpg" width=220 title="Fig#2.3"></td>
-            <td align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_images/Fig%232.4.jpg" width=220 title="Fig#2.4"/></td>
+            <td  align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Fig%232.1.png" width=199 title="Fig#2.1"></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Fig%232.2.jpg" width=220 title="Fig#2.2"/></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Fig%232.3.jpg" width=220 title="Fig#2.3"></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Fig%232.4.jpg" width=220 title="Fig#2.4"/></td>
         </tr>
         <tr>
             <td rowspan align="center" valign="center"><i>Fig 2.1 - <a href="https://drive.google.com/file/d/1YkN-B-6k4f3mZJTK_XI5deoJv63SmxFR/view?usp=sharing">A1</a></i></td>
