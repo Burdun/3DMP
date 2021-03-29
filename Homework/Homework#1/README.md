@@ -1,5 +1,6 @@
 # 3DMP -  Homework no. 1
 ![](https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Monkey_Keychain_Version2.png)
+--------------------------------------------------------------------------------------------------
 ### Tasks:
 1. Install Fusion 360 on your laptop.
 2. Create an Autodesk student account and log yourself in using Fusion 360 on your laptop.
