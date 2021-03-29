@@ -1,5 +1,6 @@
 # 3DMP - Lab no. 4
 <img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Hexagonal_Prism.png" width=317><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Bowl.png" width=317><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Abstract_Body.png" width=317><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Hourglass.png" width=282.5><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Twisted_Column.png" width=334.5><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_personal_projects/Abstract_Hexagonal_Prism.png" width=334.5>
+-------------------------------------------------------------------------------------------------------------------------
 ### 1. How to use polygons
 > - Learn what types of polygons Fusion has to offer and when to use them.
 ### 2. How to use the loft command
