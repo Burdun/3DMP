@@ -2,6 +2,7 @@
 <img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Pawn.png" height=170.3><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Knight.png" height=170.3><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Bishop.png" height=170.3><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Rook.png" height=170.3><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Queen.png" height=170.3><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/King.png" height=170.3>
 
 <img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Board.png" height=197.31><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Chessboard.png" height=197.31>
+----------------------------------------------------------------------------------------------------
 ### Tasks:
 1. Turn on capture history.
 2. Import an SVG (link [here](https://drive.google.com/drive/folders/1hP3PDJ7wgEmkW3Iuby4fesoqEDkGd0BF)) and design a chess pieces set: 
