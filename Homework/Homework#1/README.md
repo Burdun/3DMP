@@ -1,5 +1,5 @@
 # 3DMP -  Homework no. 1
-![](https://github.com/Burdun/3DMP_private/blob/main/readme_homework/Monkey_Keychain_Version2.png)
+![](https://github.com/Burdun/3DMP/blob/main/Homework/Homework%231/Monkey_Keychain_Improved_Version/Monkey_Keychain_Version2.png)
 --------------------------------------------------------------------------------------------------
 ### Tasks:
 1. Install Fusion 360 on your laptop.
