@@ -1,5 +1,5 @@
 # 3DMP - Course no. 3
-![](https://github.com/Burdun/3DMP_private/blob/main/readme_courses_personal_projects/Clock.png)
+![](https://github.com/Burdun/3DMP/blob/main/Courses/Course%233/Clock.png)
 ------------------------------------------------------------------------------------------------
 ### 1. Bodies vs Components
 > - Bodies and Components are different ways to organize a design. Understanding the differences between them helps knowing when to use which.
