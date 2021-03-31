@@ -8,9 +8,9 @@
 <table>
     <tbody>
         <tr>
-            <td  align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_gifs/Gif%234.1.gif" width=230 title="Gif#4.1"></td>
-            <td align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_gifs/Gif%234.2.gif" width=230 title="Gif#4.2"/></td>
-            <td align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_gifs/Gif%234.3.gif" width=230 title="Gif#4.3"></td>
+            <td  align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Gif%234.1.gif" width=230 title="Gif#4.1"></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Gif%234.2.gif" width=230 title="Gif#4.2"/></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Gif%234.3.gif" width=230 title="Gif#4.3"></td>
             <td align="center"><img src="" width=230 title="Gif#4.4"/></td>
         </tr>
         <tr>
@@ -21,8 +21,8 @@
         </tr>
         <tr>
             <td align="center"><img src="" width=230 title="Gif#4.5"></td>
-            <td align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_gifs/Gif%234.6.gif" width=230 title="Gif#4.6"/></td>
-            <td align="center"><img src="https://github.com/Burdun/3DMP_private/blob/main/readme_gifs/Gif%234.7.gif" width=230 title="Gif#4.7"></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Gif%234.6.gif" width=230 title="Gif#4.6"/></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Gif%234.7.gif" width=230 title="Gif#4.7"></td>
             <td align="center"><img src="" width=230 title="Gif#4.8"/></td>
         </tr> 
         <tr>

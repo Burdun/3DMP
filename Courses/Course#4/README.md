@@ -1,5 +1,5 @@
 # 3DMP - Course no. 4
-![](https://github.com/Burdun/3DMP_private/blob/main/readme_courses_personal_projects/Orthesis.png)
+![](https://github.com/Burdun/3DMP/blob/main/Courses/Course%234/Orthesis.png)
 ---------------------------------------------------------------------------------------------------
 ### 1. Designing the fastening straps holes
 > - Using sketch and mirror in designing the holes for the fastening straps on the forearm part of the exoskeleton.
