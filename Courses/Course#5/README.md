@@ -3,8 +3,8 @@
 <table>
     <tbody>
         <tr>
-            <td  align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Gif%23C4.1.gif" height=290></td>
-            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Gif%23C4.2.gif" height=290></td>
+            <td  align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Gif%23C5.1.gif" height=290></td>
+            <td align="center"><img src="https://github.com/Burdun/3DMP/blob/main/readme_resources/Gif%23C5.2.gif" height=290></td>
         </tr>
         <tr>
           <td rowspan align="center" valign="center"><i>Slider Crank Mechanism</i></td>
