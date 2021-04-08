@@ -2,7 +2,7 @@
 
 ### Tasks:
 1. Watch and understand the course videos about Rotational to Linear Motion and Vice-Versa mechanisms (we recommend to model them on your own as well).
-2. Design the Scotch Yoke Mechanism, taking the course videos as reference (especially the slider crank mechanism; in this one can see why it’s important to use Fusion Rule Number 1).
+2. Design the Scotch Yoke Mechanism, taking the course videos as reference (especially the [slider crank mechanism](https://github.com/Burdun/3DMP/tree/main/Courses/Course%235/Slider_Crank_Mechanism); in this one can see why it’s important to use Fusion Rule Number 1).
 3. Choose ONE mechanism from the  list below and design it in Fusion:
 
 <table>
